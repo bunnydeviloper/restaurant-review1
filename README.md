@@ -3,6 +3,7 @@
 #### _Three Stage Course Material Project - Restaurant Reviews_
 
 [Project Rubic](https://review.udacity.com/#!/rubics/1090/view)
+* Project completed with help from Doug Brown's webminar
 
 ## Usage:
 
