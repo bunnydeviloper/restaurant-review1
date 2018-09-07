@@ -365,3 +365,6 @@ width: 50%;
 .restaurant-review-user {
   font-weight: 700;
 }
+.map-aria-description {
+  display: none;
+}
