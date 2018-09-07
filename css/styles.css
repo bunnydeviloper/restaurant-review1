@@ -309,6 +309,21 @@ width: 50%;
 #reviews-list li p {
   margin: 0 0 10px;
 }
+.restaurant-hours-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#restaurant-hours {
+  width: 100%;
+  max-width: 100%;
+}
+#restaurant-hours tr td:first-of-type {
+  width: 30%;
+}
+#restaurant-hours tr td:last-of-type {
+  width: 70%;
+}
 #restaurant-hours td {
   color: #666;
 }
