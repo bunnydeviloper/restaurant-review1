@@ -11,7 +11,16 @@
 3. Navigate to `http://localhost:8000`
 
 ## Screenshots:
-<img src="/img/mb-main1.png" width="30%" alt="mobile screenshot main page 1">
+<div style="display: flex">
+  <img src="/img/mb-main1.png" width="30%" alt="mobile screenshot main page 1">
+  <img src="/img/mb-main2.png" width="30%" alt="mobile screenshot main page 1">
+  <img src="/img/mb-main3.png" width="30%" alt="mobile screenshot main page 1">
+</div>
+<div style="display: flex">
+  <img src="/img/mb-each1.png" width="30%" alt="mobile screenshot each page 1">
+  <img src="/img/mb-each2.png" width="30%" alt="mobile screenshot each page 1">
+  <img src="/img/mb-each3.png" width="30%" alt="mobile screenshot each page 1">
+</div>
 
 ## Project Overview: Stage 1
 * Transformed static design to responsive design for multiple devices (desktop browser, mobile, tablet...)
