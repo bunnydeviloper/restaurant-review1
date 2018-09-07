@@ -24,8 +24,8 @@
 
 
 * Display on desktop/tablets:
-<img src="/img/full1.png" width="65%" alt="full screenshot 1">
-<img src="/img/full2.png" width="65%" alt="full screenshot 2">
+<img src="/img/full1.png" width="60%" alt="full screenshot 1">
+<img src="/img/full2.png" width="60%" alt="full screenshot 2">
 
 ## Leaflet.js and Mapbox:
 * This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/).
