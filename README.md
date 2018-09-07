@@ -10,6 +10,9 @@
 2. Start a simple HTTP server with `python -m SimpleHTTPServer 8000`
 3. Navigate to `http://localhost:8000`
 
+## Screenshots:
+<img src="/img/mb-main1.png" width="30%" alt="mobile screenshot main page 1">
+
 ## Project Overview: Stage 1
 * Transformed static design to responsive design for multiple devices (desktop browser, mobile, tablet...)
 * Added accessibility features for screen reader
