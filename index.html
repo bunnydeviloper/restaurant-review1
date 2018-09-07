@@ -19,14 +19,16 @@
     </header>
 
     <main id="maincontent">
-    <section id="map-container" aria-labelledby="map-aria-description" role="application">
+    <section id="map-container" tabindex="-1" aria-labelledby="map-aria-description" role="application">
+    <!-- add tabindex="-1" to skip map navigation by keyboard -->
       <div id="map"></div>
     </section>
     <label id="map-aria-description" class="map-aria-description">Map Display</label>
     <section>
       <div class="filter-options">
         <h2>Filter Results</h2>
-        <div class="filter-selects">
+        <div class="filter-selects" tabindex="0">
+        <!-- add tabindex="0" to focus on filter-selects as it important to select by keyboard navigation -->
           <select id="neighborhoods-select" name="neighborhoods" onchange="updateRestaurants()"
                                                                  aria-labelledby="neighborhoods-label">
             <option value="all">All Neighborhoods</option>
