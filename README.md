@@ -15,6 +15,9 @@
   <img src="/img/mb-main1.png" width="30%" alt="mobile screenshot main page 1">
   <img src="/img/mb-main3.png" width="30%" alt="mobile screenshot main page 1">
 </div>
+<img src="/img/full1.png" width="60%" alt="full screenshot 1">
+<img src="/img/full2.png" width="60%" alt="full screenshot 2">
+
 
 ## Project Overview: Stage 1
 * Transformed static design to responsive design for multiple devices (desktop browser, mobile, tablet...)
