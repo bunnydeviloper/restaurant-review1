@@ -165,7 +165,6 @@ nav h1 a {
   /* max-height: 225px; */
   /* overflow: hidden; */
 }
-/*
 #restaurants-list .restaurant-text-area {
   padding: 0 25px;
   margin-top: 10px;
@@ -175,7 +174,6 @@ nav h1 a {
   min-height: 170px;
   max-height: 170px;
 }
-*/
 #restaurants-list li h1 {
   color: #f18200;
   font-family: Arial,sans-serif;
@@ -210,12 +208,14 @@ nav h1 a {
 }
 
 /* ====================== Restaurant Details ====================== */
+/*
 .inside header {
   position: fixed;
   top: 0;
   width: 100%;
   z-index: 1000;
 }
+*/
 .inside #map-container {
   background: blue none repeat scroll 0 0;
   height: 100%;
@@ -232,7 +232,8 @@ nav h1 a {
 .inside #footer {
   bottom: 0;
   position: absolute;
-  width: 50%;
+  /* width: 50%; */
+  width: 100%;
 }
 #restaurant-name {
   color: #f18200;
